@@ -1,3 +1,1 @@
-Hi there 👋
-
-I am currently a student at Microverse!
+Software Developer with knowledge in Javascript, React and SQL. Open to new opportunities.
